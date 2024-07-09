@@ -1,6 +1,6 @@
 Dataset got from Kaggle https://www.kaggle.com/datasets/rabieelkharoua/predict-pet-adoption-status-dataset/data
 ## About the dataset
-In this dataset it contai
+In this dataset it contains
 |Column| Description |
 | ------------- | ------------- |
 | PetID  | Unique identifier for each pet  |
