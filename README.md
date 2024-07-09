@@ -16,3 +16,10 @@ In this dataset it contains
 | AdoptionFee | Adoption fee for the pet $ |
 | PreviousOwner | Whether the pet had a previous owner (1 for Yes, 0 for No) |
 | AdoptionLikelihood | Likelihood of the pet being adopted (0 - Unlikely, 1 - Likely)|
+## Predict Pet Adoption using Machine Learning (Logistic Regression, Support Vector Machine and Descision Tree)
+In the file of .ipynb it's listing some step such as:
+1. EDA
+2. Data Preprocessing
+3. Feature Selection
+4. Feautrue Scaling
+5. Model Selection
